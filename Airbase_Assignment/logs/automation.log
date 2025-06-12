@@ -1,6 +1,0 @@
-2025-06-12 19:29:39 INFO  AmazonTest:18 - Smart watch search test started !!
-2025-06-12 19:29:39 INFO  AmazonTest:20 - Launch amazon.in & verify page title !!
-2025-06-12 19:29:44 INFO  AmazonTest:25 - Enter smartwatch in search box & click on search !!
-2025-06-12 19:29:48 INFO  AmazonTest:29 - Filter brand & apply price range !!
-2025-06-12 19:29:49 INFO  AmazonTest:34 - Verify applied price range filter !!
-2025-06-12 19:29:50 INFO  AmazonTest:37 - Short price high to low & open highest price product !!
