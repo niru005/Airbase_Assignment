@@ -1,0 +1,17 @@
+# Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# Maven build directory
+/target/
+
+# TestNG output reports
+/test-output/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java build artifacts
+*.class

@@ -5,11 +5,11 @@
     <listener class-name="com.airbase.utils.ExtentReportManager"/>
   </listeners>
   <test thread-count="5" name="AmazonTest(failed)">
-    <parameter name="browser" value="Edge"/>
+    <parameter name="browser" value="Firefox"/>
     <classes>
       <class name="com.airbase.tests.AmazonTest">
         <methods>
-          <include name="amazonSearchTest" invocation-numbers="0"/>
+          <include name="amazonSearchTest"/>
           <include name="tearDown"/>
           <include name="setup"/>
         </methods>

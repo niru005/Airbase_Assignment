@@ -5,7 +5,7 @@
 		<listener class-name="com.airbase.utils.ExtentReportManager" />
 	</listeners>
 	<test thread-count="5" name="AmazonTest">
-		<parameter name="browser" value="Chrome"></parameter>
+		<parameter name="browser" value="Firefox"></parameter>
 		<classes>
 			<class name="com.airbase.tests.AmazonTest" />
 		</classes>

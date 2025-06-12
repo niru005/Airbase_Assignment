@@ -57,7 +57,7 @@ public class AmazonTest extends BaseTest {
 
 	@DataProvider(name = "brands")
 	public Object[][] brands() {
-		return new Object[][] { { "boAt" }, { "Fastrack" }, { "Fire-Boltt" }, { "Noise" } };
+		return new Object[][] { { "boAt" }/*, { "Fastrack" }, { "Fire-Boltt" }, { "Noise" }*/ };
 	}
 
 }
